@@ -10,6 +10,8 @@ Good for your global illumination research and miniture modeling.
 ![compare](img/vermerr_painting_capture_compare_v001.jpg)
 
 
+3D model is provided by wavefront .obj format.
+
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
